@@ -1,0 +1,8 @@
+lazy-lock.json
+
+*.swp
+*.swo
+*.tmp
+*.bak
+undodir/
+
